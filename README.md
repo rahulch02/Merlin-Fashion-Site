@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1 align = "center">Merlin Fashion🛒</h1>
 
 
@@ -23,3 +24,6 @@ Merlin Fashion doesn't include anything related to database, it is just a HTML, 
  Saw all the other pages?🧐 Go check it out now!🥳 
    https://singh-shivani.github.io/Merlin-Fashion/
 </p>
+=======
+# Merlin-Fashion-Site
+>>>>>>> 012962eb04f11daea15539e71671f34b2b1d3850
