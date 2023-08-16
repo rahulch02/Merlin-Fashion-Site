@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <h1 align = "center">Merlin Fashion🛒</h1>
 
 
@@ -20,10 +20,6 @@ Merlin Fashion doesn't include anything related to database, it is just a HTML, 
  <p align="center">
  <img src="https://user-images.githubusercontent.com/47295558/76738138-11372680-6790-11ea-82c6-c27a9c2b7b68.gif">
   </p>
- <p align="center">
- Saw all the other pages?🧐 Go check it out now!🥳 
-   https://singh-shivani.github.io/Merlin-Fashion/
-</p>
 =======
 # Merlin-Fashion-Site
 >>>>>>> 012962eb04f11daea15539e71671f34b2b1d3850
